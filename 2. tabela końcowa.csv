@@ -1,0 +1,423 @@
+"";"Kraj";"time";"Regiony";"Wynik"
+"1";"AL";2013;"Fier, Durrës, Elbasan, Vlorë, Korcë";4,16312056737589
+"2";"AT";2013;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,56381917899285
+"3";"BE";2013;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,09791713325868
+"4";"BG";2013;"Plovdiv, Varna, Stara Zagora, Burgas, Sofia, Blagoevgrad, Ruse, Veliko Tarnovo, Pazardzhik, Pleven";9,665544332211
+"5";"CZ";2013;"Jihomoravský kraj, Stredoceský kraj, Moravskoslezský kraj";2,26695441763129
+"6";"DE";2013;"Hamburg, München, Kreisfreie Stadt";1,10949179437925
+"7";"DK";2013;"K?benhavns omegn, ?stjylland";1,27922539381736
+"8";"EE";2013;"L?una-Eesti, Kirde-Eesti, Lääne-Eesti, Kesk-Eesti";4
+"9";"EL";2013;"Voreios Tomeas Athinon, Thessaloniki, Anatoliki Attiki";2,0418591757531
+"10";"ES";2013;"Barcelona, Valencia / Val?ncia";1,99428526999184
+"11";"FI";2013;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa, Päijät-Häme";7,18385134024009
+"12";"FR";2013;"Hauts-de-Seine, Rhône";1,6980913746093
+"13";"HR";2013;"Primorsko-goranska zupanija, Splitsko-dalmatinska zupanija, Istarska zupanija, Zagrebacka zupanija, Osjecko-baranjska zupanija";4,78656288406391
+"14";"HU";2013;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Hajdú-Bihar, Bács-Kiskun, Komárom-Esztergom, Szabolcs-Szatmár-Bereg";7,96795079313694
+"15";"IE";2013;"South-West (IE), Mid-East, South-East (IE), West, Mid-West";4,52538649308381
+"16";"IT";2013;"Roma, Torino";1,07930237321862
+"17";"LT";2013;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis, Panevezio apskritis";3,08463356973995
+"18";"LV";2013;"Pieriga, Kurzeme, Latgale, Zemgale, Vidzeme";5
+"19";"MK";2013;"Pelagoniski, Jugoistocen, Vardarski, Istocen, Jugozapaden";4,7433489827856
+"20";"MT";2013;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"21";"NL";2013;"Groot-Rijnmond, Utrecht";1,53121012428114
+"22";"NO";2013;"Oslo, Hordaland";1,64187565469222
+"23";"PL";2013;"Miasto Kraków, Miasto Poznan, Region Trojmiejski, Region Katowicki, Miasto Wroclaw";4,62379946215905
+"24";"PT";2013;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,3049766056997
+"25";"RO";2013;"Constanta, Timis, Cluj, Prahova, Brasov, Iasi";5,91307277628032
+"26";"SE";2013;"Västra Götalands län, Sk?ne län, Östergötlands län";2,83878891745216
+"27";"SI";2013;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,62039779940753
+"28";"SK";2013;"Kosický kraj, Trnavský kraj, Nitriansky kraj";2,47396464034875
+"29";"UK";2013;"Westminster, Berkshire";1,53003581939723
+"30";"AL";2014;"Fier, Durrës, Elbasan, Vlorë, Korcë";4,28546409807355
+"31";"AT";2014;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,51526686644529
+"32";"BE";2014;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,06675358539765
+"33";"BG";2014;"Plovdiv, Varna, Stara Zagora, Burgas, Sofia, Blagoevgrad, Ruse, Veliko Tarnovo, Pazardzhik, Pleven";9,66854565952649
+"34";"CZ";2014;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,18332677423587
+"35";"DE";2014;"Hamburg, München, Kreisfreie Stadt";1,12577962577963
+"36";"DK";2014;"K?benhavns omegn, ?stjylland";1,30095227035188
+"37";"EE";2014;"L?una-Eesti, Kirde-Eesti, Lääne-Eesti, Kesk-Eesti";4
+"38";"EL";2014;"Thessaloniki, Voreios Tomeas Athinon, Anatoliki Attiki";2,04938156793453
+"39";"ES";2014;"Barcelona, Valencia / Val?ncia";1,96620536738283
+"40";"FI";2014;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa, Päijät-Häme";7,20937700706487
+"41";"FR";2014;"Hauts-de-Seine, Rhône";1,69278645833333
+"42";"HR";2014;"Primorsko-goranska zupanija, Splitsko-dalmatinska zupanija, Istarska zupanija, Zagrebacka zupanija, Osjecko-baranjska zupanija";4,79307467667918
+"43";"HU";2014;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Hajdú-Bihar, Bács-Kiskun, Szabolcs-Szatmár-Bereg, Csongrád";7,34671532846715
+"44";"IE";2014;"South-West (IE), Mid-East, South-East (IE), West, Mid-West";4,84032989690722
+"45";"IT";2014;"Roma, Torino";1,13206493792698
+"46";"LT";2014;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis, Panevezio apskritis";3,19400272603362
+"47";"LV";2014;"Pieriga, Kurzeme, Zemgale, Latgale, Vidzeme";5
+"48";"MK";2014;"Pelagoniski, Jugoistocen, Istocen, Vardarski, Jugozapaden";4,69822485207101
+"49";"MT";2014;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"50";"NL";2014;"Groot-Rijnmond, Utrecht";1,60055452228422
+"51";"NO";2014;"Oslo, Hordaland";1,32772473768787
+"52";"PL";2014;"Miasto Kraków, Miasto Poznan, Miasto Wroclaw, Region Trojmiejski, Region Katowicki";4,65664137489716
+"53";"PT";2014;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,01178416373785
+"54";"RO";2014;"Constanta, Prahova, Cluj, Timis, Brasov, Iasi";5,66407934454506
+"55";"SE";2014;"Västra Götalands län, Sk?ne län, Östergötlands län";2,91340170546209
+"56";"SI";2014;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,56199351701783
+"57";"SK";2014;"Trnavský kraj, Kosický kraj, Nitriansky kraj";2,42833213687485
+"58";"UK";2014;"Westminster, Berkshire";1,55332832205796
+"59";"AL";2008;"Fier, Durrës, Elbasan, Vlorë, Shkodër, Korcë";5,22064777327935
+"60";"AT";2008;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,60386745517695
+"61";"BE";2008;"Arr. Antwerpen, Arr. Halle-Vilvoorde";1,99871266735324
+"62";"BG";2008;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Ruse, Pazardzhik, Veliko Tarnovo, Pleven";9,24618991793669
+"63";"CZ";2008;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,43676452372105
+"64";"DE";2008;"Hamburg, München, Kreisfreie Stadt";1,0512141334746
+"65";"DK";2008;"?stjylland, K?benhavns omegn";1,23514647010231
+"66";"EE";2008;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"67";"EL";2008;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,06867973479389
+"68";"ES";2008;"Barcelona, Valencia / Val?ncia";1,8165323272166
+"69";"FI";2008;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa";6,4972294654498
+"70";"FR";2008;"Hauts-de-Seine, Nord (FR)";1,7122991917958
+"71";"HR";2008;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Osjecko-baranjska zupanija, Istarska zupanija, Zagrebacka zupanija";4,56792873051225
+"72";"HU";2008;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Hajdú-Bihar, Bács-Kiskun, Komárom-Esztergom, Csongrád";7,99194991055456
+"73";"IE";2008;"South-West (IE), Mid-East, South-East (IE), Border";3,89133924209645
+"74";"IT";2008;"Milano, Torino";1,0152629328773
+"75";"LT";2008;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis, Panevezio apskritis";3,0462226640159
+"76";"LV";2008;"Pieriga, Kurzeme, Latgale, Zemgale, Vidzeme";5
+"77";"MK";2008;"Pelagoniski, Jugozapaden, Poloski, Istocen, Jugoistocen, Vardarski";5,12280701754386
+"78";"MT";2008;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"79";"NL";2008;"Groot-Rijnmond, Utrecht";1,35233358837031
+"80";"PL";2008;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Wroclaw";4,4241386925795
+"81";"PT";2008;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,66489143793527
+"82";"RO";2008;"Timis, Cluj, Prahova, Constanta, Arges, Brasov, Iasi";6,49614085865895
+"83";"SE";2008;"Västra Götalands län, Sk?ne län, Östergötlands län";2,2637943519189
+"84";"SI";2008;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,46836935166994
+"85";"SK";2008;"Trnavský kraj, Kosický kraj, Zilinský kraj";2,2354615697438
+"86";"UK";2008;"Westminster, Extra-Regio NUTS 3";1,38996042396397
+"87";"AL";2009;"Fier, Durrës, Elbasan, Vlorë, Shkodër, Korcë";5,27235772357724
+"88";"AT";2009;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,74176660955644
+"89";"BE";2009;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,17021276595745
+"90";"BG";2009;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Ruse, Veliko Tarnovo, Pazardzhik, Pleven";9,36038186157518
+"91";"CZ";2009;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,47115854083839
+"92";"DE";2009;"Hamburg, München, Kreisfreie Stadt";1,09542100475083
+"93";"DK";2009;"?stjylland, K?benhavns omegn";1,24219134890137
+"94";"EE";2009;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"95";"EL";2009;"Thessaloniki, Voreios Tomeas Athinon, Anatoliki Attiki";2,06582560296846
+"96";"ES";2009;"Barcelona, Valencia / Val?ncia";1,91985292785858
+"97";"FI";2009;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa, Päijät-Häme";7,1034155597723
+"98";"FR";2009;"Hauts-de-Seine, Nord (FR)";1,68084047876855
+"99";"HR";2009;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,57592024539877
+"100";"HU";2009;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Csongrád, Komárom-Esztergom, Szabolcs-Szatmár-Bereg";8,75367904695165
+"101";"IE";2009;"South-West (IE), Mid-East, Border, South-East (IE)";3,87850904553961
+"102";"IT";2009;"Milano, Torino";1,06161537163975
+"103";"LT";2009;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,97819314641745
+"104";"LV";2009;"Pieriga, Kurzeme, Latgale, Zemgale, Vidzeme";5
+"105";"MK";2009;"Pelagoniski, Jugoistocen, Poloski, Istocen, Jugozapaden, Vardarski";5,21935483870968
+"106";"MT";2009;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"107";"NL";2009;"Groot-Rijnmond, Utrecht";1,38948770086193
+"108";"PL";2009;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Wroclaw";4,47063197026022
+"109";"PT";2009;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Cávado, Ave, Oeste, Regi?o de Leiria";7,84556225316982
+"110";"RO";2009;"Timis, Cluj, Prahova, Constanta, Arges, Brasov";5,7113117632305
+"111";"SE";2009;"Västra Götalands län, Sk?ne län, Östergötlands län";2,76700639962076
+"112";"SI";2009;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,69873949579832
+"113";"SK";2009;"Trnavský kraj, Kosický kraj, Zilinský kraj";2,487702037948
+"114";"UK";2009;"Westminster, Berkshire";1,50336357292394
+"115";"AL";2011;"Fier, Durrës, Elbasan, Vlorë, Shkodër";4,38324420677362
+"116";"AT";2011;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,57990988603234
+"117";"BE";2011;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,16155858717997
+"118";"BG";2011;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Pazardzhik, Ruse, Veliko Tarnovo, Pleven, Vratsa";10,1779359430605
+"119";"CZ";2011;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,34742580254391
+"120";"DE";2011;"Hamburg, München, Kreisfreie Stadt";1,14090830797497
+"121";"DK";2011;"K?benhavns omegn, ?stjylland";1,31305299644258
+"122";"EE";2011;"L?una-Eesti, Kirde-Eesti, Lääne-Eesti, Kesk-Eesti";4
+"123";"EL";2011;"Thessaloniki, Voreios Tomeas Athinon";1,99514480889742
+"124";"ES";2011;"Barcelona, Valencia / Val?ncia";1,95505101571836
+"125";"FI";2011;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa";6,83784601421873
+"126";"FR";2011;"Hauts-de-Seine, Rhône";1,7007724661187
+"127";"HR";2011;"Primorsko-goranska zupanija, Splitsko-dalmatinska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,89282868525896
+"128";"HU";2011;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Komárom-Esztergom, Csongrád";7,9650416933932
+"129";"IE";2011;"South-West (IE), West, Mid-East, South-East (IE)";3,81042400122455
+"130";"IT";2011;"Roma, Torino";1,05540221666071
+"131";"LT";2011;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,82071031236628
+"132";"LV";2011;"Pieriga, Kurzeme, Latgale, Zemgale, Vidzeme";5
+"133";"MK";2011;"Pelagoniski, Jugoistocen, Istocen, Jugozapaden, Poloski";4,52389078498294
+"134";"MT";2011;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"135";"NL";2011;"Groot-Rijnmond, Utrecht";1,46849344279774
+"136";"NO";2011;"Oslo, Hordaland";1,99811340903428
+"137";"PL";2011;"Miasto Kraków, Region Trojmiejski, Miasto Poznan, Region Katowicki, Miasto Wroclaw";4,5434941139702
+"138";"PT";2011;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,7441182594212
+"139";"RO";2011;"Timis, Cluj, Constanta, Prahova, Brasov, Arges, Iasi";6,62982860066513
+"140";"SE";2011;"Västra Götalands län, Sk?ne län, Östergötlands län";2,7666954696951
+"141";"SI";2011;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,58864664747018
+"142";"SK";2011;"Trnavský kraj, Kosický kraj, Nitriansky kraj";2,43276314146585
+"143";"UK";2011;"Westminster, Berkshire";1,52048550904137
+"144";"AL";2012;"Fier, Durrës, Elbasan, Vlorë, Korcë";4,32142857142857
+"145";"AT";2012;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,49821458935555
+"146";"BE";2012;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,11336107258437
+"147";"BG";2012;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Pazardzhik, Ruse, Veliko Tarnovo, Vratsa";9,62096774193548
+"148";"CZ";2012;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,29496093028979
+"149";"DE";2012;"Hamburg, München, Kreisfreie Stadt";1,13145334325875
+"150";"DK";2012;"K?benhavns omegn, ?stjylland";1,30452699474439
+"151";"EE";2012;"L?una-Eesti, Kirde-Eesti, Lääne-Eesti, Kesk-Eesti";4
+"152";"EL";2012;"Thessaloniki, Voreios Tomeas Athinon, Anatoliki Attiki";2,02181818181818
+"153";"ES";2012;"Barcelona, Valencia / Val?ncia, Sevilla";2,00907651416615
+"154";"FI";2012;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa";6,82039192574039
+"155";"FR";2012;"Hauts-de-Seine, Rhône";1,69939909327467
+"156";"HR";2012;"Primorsko-goranska zupanija, Splitsko-dalmatinska zupanija, Istarska zupanija, Zagrebacka zupanija, Osjecko-baranjska zupanija";4,85877551020408
+"157";"HU";2012;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Szabolcs-Szatmár-Bereg, Csongrád, Komárom-Esztergom";8,19862340216322
+"158";"IE";2012;"South-West (IE), West, Mid-East, South-East (IE)";3,9313672922252
+"159";"IT";2012;"Roma, Torino";1,08946742041059
+"160";"LT";2012;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,91061452513966
+"161";"LV";2012;"Pieriga, Kurzeme, Zemgale, Latgale, Vidzeme";5
+"162";"MK";2012;"Pelagoniski, Jugoistocen, Istocen, Jugozapaden, Vardarski";4,79966044142615
+"163";"MT";2012;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"164";"NL";2012;"Groot-Rijnmond, Utrecht";1,4699721290231
+"165";"NO";2012;"Oslo, Hordaland";1,90266380507512
+"166";"PL";2012;"Miasto Kraków, Region Trojmiejski, Miasto Poznan, Region Katowicki, Miasto Wroclaw";4,58817031532436
+"167";"PT";2012;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,35364267129228
+"168";"RO";2012;"Timis, Constanta, Cluj, Prahova, Brasov, Ilfov, Iasi";6,10575703778849
+"169";"SE";2012;"Västra Götalands län, Sk?ne län, Östergötlands län";2,87239075158181
+"170";"SI";2012;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,65004262574595
+"171";"SK";2012;"Trnavský kraj, Kosický kraj, Nitriansky kraj";2,38222168616572
+"172";"UK";2012;"Westminster, Berkshire";1,51757869466694
+"173";"AL";2010;"Fier, Durrës, Elbasan, Vlorë, Shkodër";4,66542750929368
+"174";"AT";2010;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,6784390063033
+"175";"BE";2010;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,14224744168
+"176";"BG";2010;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Pazardzhik, Veliko Tarnovo, Ruse, Pleven, Vratsa";10,6620603015075
+"177";"CZ";2010;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,48865710560626
+"178";"DE";2010;"Hamburg, München, Kreisfreie Stadt";1,1064292344521
+"179";"DK";2010;"K?benhavns omegn, ?stjylland";1,35052160020049
+"180";"EE";2010;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"181";"EL";2010;"Thessaloniki, Voreios Tomeas Athinon, Anatoliki Attiki";2,04155607795556
+"182";"ES";2010;"Barcelona, Valencia / Val?ncia";1,88244576652398
+"183";"FI";2010;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa, Päijät-Häme";7,2936988252047
+"184";"FR";2010;"Hauts-de-Seine, Rhône";1,77563061137238
+"185";"HR";2010;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,95075295075295
+"186";"HU";2010;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Komárom-Esztergom, Csongrád, Szabolcs-Szatmár-Bereg";8,26342281879195
+"187";"IE";2010;"South-West (IE), Mid-East, West, South-East (IE), Mid-West";4,24760044168861
+"188";"IT";2010;"Roma, Torino";1,05800778944884
+"189";"LT";2010;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,93204819277108
+"190";"LV";2010;"Pieriga, Kurzeme, Zemgale, Latgale, Vidzeme";5
+"191";"MK";2010;"Pelagoniski, Jugoistocen, Istocen, Jugozapaden, Poloski";4,5985401459854
+"192";"MT";2010;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"193";"NL";2010;"Groot-Rijnmond, Utrecht";1,44672138476119
+"194";"PL";2010;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Wroclaw";4,62422663627483
+"195";"PT";2010;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,79514603044015
+"196";"RO";2010;"Timis, Cluj, Constanta, Prahova, Brasov, Arges, Iasi";6,12393272962484
+"197";"SE";2010;"Västra Götalands län, Sk?ne län, Östergötlands län";2,57830513045237
+"198";"SI";2010;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,63511259382819
+"199";"SK";2010;"Trnavský kraj, Kosický kraj, Zilinský kraj";2,47709216101695
+"200";"UK";2010;"Westminster, Berkshire";1,52989701418973
+"201";"AT";2004;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,74361272971761
+"202";"BE";2004;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,20236578707916
+"203";"BG";2004;"Plovdiv, Varna, Burgas, Stara Zagora, Blagoevgrad, Sofia";5,71407407407407
+"204";"CZ";2004;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,34264119252572
+"205";"DE";2004;"Berlin, München, Kreisfreie Stadt";1,00856118927529
+"206";"DK";2004;"?stjylland, K?benhavns omegn";1,2734555947906
+"207";"EE";2004;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"208";"EL";2004;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,13271417411683
+"209";"ES";2004;"Barcelona, Valencia / Val?ncia";1,75213387996505
+"210";"FI";2004;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Kymenlaakso";6,08222142084385
+"211";"FR";2004;"Hauts-de-Seine, Nord (FR)";1,87103653496446
+"212";"HR";2004;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,38843868179362
+"213";"HU";2004;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Komárom-Esztergom, Csongrád";7,01729212656365
+"214";"IE";2004;"South-West (IE), South-East (IE), Mid-East, Border";3,63162878787879
+"215";"IT";2004;"Milano, Torino";1,15578457661616
+"216";"LT";2004;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,71703296703297
+"217";"LV";2004;"Kurzeme, Pieriga, Latgale, Zemgale, Vidzeme";5
+"218";"MK";2004;"Pelagoniski, Jugozapaden, Jugoistocen, Poloski, Vardarski";4,71779141104294
+"219";"MT";2004;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"220";"NL";2004;"Groot-Rijnmond, Utrecht";1,41099286889742
+"221";"PL";2004;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Lódz";4,12762059841238
+"222";"PT";2004;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Oeste, Cávado, Regi?o de Leiria";7,58722300801509
+"223";"RO";2004;"Constanta, Timis, Cluj, Prahova, Arges, Brasov";5,05996924654024
+"224";"SE";2004;"Västra Götalands län, Sk?ne län, Östergötlands län";2,19025312294543
+"225";"SI";2004;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,30420884389984
+"226";"SK";2004;"Kosický kraj, Nitriansky kraj, Trnavský kraj";2,09246392303581
+"227";"UK";2004;"Westminster, Berkshire";1,30237958441061
+"228";"AT";2002;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck, Rheintal-Bodenseegebiet";5,09509163142381
+"229";"BG";2002;"Plovdiv, Varna, Stara Zagora, Burgas, Veliko Tarnovo, Pleven";5,80817051509769
+"230";"CZ";2002;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,25605326876513
+"231";"DE";2002;"Hamburg, München, Kreisfreie Stadt";1,03216559223719
+"232";"DK";2002;"?stjylland, Sydjylland";1,25030341075539
+"233";"EE";2002;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"234";"EL";2002;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,16421698212964
+"235";"ES";2002;"Barcelona, Valencia / Val?ncia";1,72169931315187
+"236";"FI";2002;"Varsinais-Suomi, Pirkanmaa, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Kymenlaakso";6,08094960108971
+"237";"FR";2002;"Hauts-de-Seine, Nord (FR)";1,98564115370209
+"238";"HR";2002;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,29525593008739
+"239";"HU";2002;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Csongrád, Szabolcs-Szatmár-Bereg";7,64147702876771
+"240";"IE";2002;"South-West (IE), South-East (IE), Mid-East";2,86145346366341
+"241";"IT";2002;"Milano, Torino";1,11907661172758
+"242";"LT";2002;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis, Panevezio apskritis";3,42134314627415
+"243";"LV";2002;"Kurzeme, Pieriga, Latgale, Zemgale, Vidzeme";5
+"244";"MK";2002;"Pelagoniski, Jugozapaden, Poloski, Jugoistocen, Vardarski";4,69896193771626
+"245";"MT";2002;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"246";"NL";2002;"Groot-Rijnmond, Utrecht";1,41341202205715
+"247";"PL";2002;"Region Katowicki, Miasto Kraków, Miasto Poznan, Region Trojmiejski, Miasto Wroclaw";4,18106280193237
+"248";"PT";2002;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Cávado, Oeste, Regi?o de Leiria";7,24199288256228
+"249";"RO";2002;"Constanta, Cluj, Prahova, Timis, Brasov";4,95169637722829
+"250";"SE";2002;"Västra Götalands län, Sk?ne län, Östergötlands län";2,05491179522657
+"251";"SI";2002;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,05889351576443
+"252";"SK";2002;"Kosický kraj, Nitriansky kraj, Banskobystrický kraj";2,10501792114695
+"253";"UK";2002;"Westminster, Berkshire";1,18923590833703
+"254";"AT";2006;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,73510134113139
+"255";"BE";2006;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,09083263246426
+"256";"BG";2006;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Pazardzhik, Ruse";7,07799442896936
+"257";"CZ";2006;"Stredoceský kraj, Moravskoslezský kraj, Jihomoravský kraj";2,39875644277182
+"258";"DE";2006;"Hamburg, München, Kreisfreie Stadt";1,01571816405754
+"259";"DK";2006;"?stjylland, K?benhavns omegn";1,24366845740599
+"260";"EE";2006;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"261";"EL";2006;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,08398970599704
+"262";"ES";2006;"Barcelona, Valencia / Val?ncia";1,78596334895975
+"263";"FI";2006;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Kymenlaakso";6,44409282700422
+"264";"FR";2006;"Hauts-de-Seine, Nord (FR)";1,77170977340352
+"265";"HR";2006;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,63836622303809
+"266";"HU";2006;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Hajdú-Bihar, Bács-Kiskun, Komárom-Esztergom, Csongrád";7,71244784422809
+"267";"IE";2006;"South-West (IE), Mid-East, South-East (IE), Border";3,67347921827691
+"268";"IT";2006;"Milano, Torino";1,18876295972111
+"269";"LT";2006;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,99727074235808
+"270";"LV";2006;"Pieriga, Kurzeme, Zemgale, Latgale, Vidzeme";5
+"271";"MK";2006;"Pelagoniski, Vardarski, Jugozapaden, Poloski, Jugoistocen, Istocen";5,7967032967033
+"272";"MT";2006;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"273";"NL";2006;"Groot-Rijnmond, Utrecht";1,37139176295342
+"274";"PL";2006;"Miasto Kraków, Miasto Poznan, Region Trojmiejski, Region Katowicki, Miasto Wroclaw";4,38118121221516
+"275";"PT";2006;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Oeste, Cávado, Regi?o de Leiria";7,62116931101934
+"276";"RO";2006;"Timis, Constanta, Cluj, Prahova, Arges, Brasov";5,23783435385111
+"277";"SE";2006;"Västra Götalands län, Sk?ne län, Östergötlands län";2,11151708913755
+"278";"SI";2006;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,47557003257329
+"279";"SK";2006;"Trnavský kraj, Kosický kraj, Nitriansky kraj";2,14243730407523
+"280";"UK";2006;"Westminster, Berkshire";1,41264580553523
+"281";"AT";2001;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck, Rheintal-Bodenseegebiet";5,00280523644136
+"282";"BG";2001;"Plovdiv, Varna, Stara Zagora, Burgas, Pleven";4,97966728280961
+"283";"CZ";2001;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,23097185637044
+"284";"DE";2001;"Hamburg, München, Kreisfreie Stadt";1,05076524670129
+"285";"DK";2001;"?stjylland, K?benhavns omegn";1,28990560421805
+"286";"EE";2001;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"287";"EL";2001;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,16078305519897
+"288";"ES";2001;"Barcelona, Valencia / Val?ncia";1,68382896068722
+"289";"FI";2001;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Kymenlaakso";6,59787153173698
+"290";"FR";2001;"Hauts-de-Seine, Nord (FR), Rhône";2,09400387604487
+"291";"HR";2001;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,39107005388761
+"292";"HU";2001;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Hajdú-Bihar, Bács-Kiskun, Csongrád, Szabolcs-Szatmár-Bereg";7,26656920077973
+"293";"IE";2001;"South-West (IE), South-East (IE), Mid-West, Mid-East";3,90064602361328
+"294";"IT";2001;"Milano, Torino";1,11148987014813
+"295";"LT";2001;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,83238636363636
+"296";"LV";2001;"Kurzeme, Pieriga, Latgale, Zemgale, Vidzeme";5
+"297";"MK";2001;"Pelagoniski, Jugozapaden, Jugoistocen, Poloski, Vardarski";4,93286219081272
+"298";"MT";2001;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"299";"NL";2001;"Utrecht, Groot-Rijnmond";1,33062808750882
+"300";"PL";2001;"Miasto Poznan, Region Katowicki, Miasto Kraków, Region Trojmiejski, Miasto Lódz";4,24300905868452
+"301";"PT";2001;"Área Metropolitana do Porto, Regi?o de Coimbra, Algarve, Regi?o de Aveiro, Ave, Oeste, Cávado, Regi?o de Leiria";7,00875563810029
+"302";"RO";2001;"Constanta, Cluj, Timis, Prahova, Brasov, Iasi";5,12789880534083
+"303";"SE";2001;"Västra Götalands län, Sk?ne län, Östergötlands län";2,01682449204744
+"304";"SI";2001;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,09044259140475
+"305";"SK";2001;"Kosický kraj, Nitriansky kraj, Zilinský kraj";2,00983864620228
+"306";"UK";2001;"Westminster, Berkshire";1,17047469223662
+"307";"AT";2000;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,89804364183597
+"308";"BG";2000;"Plovdiv, Burgas, Varna, Stara Zagora, Vratsa";4,03448275862069
+"309";"CZ";2000;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,18923991241789
+"310";"DE";2000;"Hamburg, München, Kreisfreie Stadt";1,10227127636936
+"311";"DK";2000;"?stjylland, K?benhavns omegn";1,29017483595367
+"312";"EE";2000;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"313";"EL";2000;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,18001122964627
+"314";"ES";2000;"Barcelona, Valencia / Val?ncia";1,65685367091631
+"315";"FI";2000;"Varsinais-Suomi, Pirkanmaa, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Kymenlaakso, Pohjois-Savo";6,45674809771726
+"316";"FR";2000;"Hauts-de-Seine, Nord (FR), Rhône";2,05854597002835
+"317";"HR";2000;"Primorsko-goranska zupanija, Splitsko-dalmatinska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,09731800766284
+"318";"HU";2000;"Pest, Gyor-Moson-Sopron, Fejér, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Bács-Kiskun, Csongrád, Szabolcs-Szatmár-Bereg";7,15492957746479
+"319";"IE";2000;"South-West (IE), Mid-East, South-East (IE), Mid-West";3,995151371807
+"320";"IT";2000;"Milano, Torino";1,10007216308858
+"321";"LT";2000;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,80212355212355
+"322";"LV";2000;"Kurzeme, Pieriga, Latgale, Zemgale, Vidzeme";5
+"323";"MK";2000;"Pelagoniski, Jugozapaden, Poloski, Jugoistocen, Istocen";4,40766550522648
+"324";"MT";2000;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"325";"NL";2000;"Groot-Rijnmond, Utrecht";1,36446365022877
+"326";"PL";2000;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Wroclaw";4,15439062154391
+"327";"PT";2000;"Área Metropolitana do Porto, Regi?o de Coimbra, Algarve, Regi?o de Aveiro, Ave, Oeste, Regi?o de Leiria, Cávado";7,16861293078895
+"328";"RO";2000;"Constanta, Prahova, Cluj, Timis, Brasov, Iasi";5,58746948738812
+"329";"SE";2000;"Västra Götalands län, Sk?ne län, Östergötlands län";2,1103690685413
+"330";"SI";2000;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,01746138347885
+"331";"SK";2000;"Kosický kraj, Nitriansky kraj, Trnavský kraj";2,05597326649958
+"332";"UK";2000;"Westminster, Berkshire";1,17581791614038
+"333";"AT";2007;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,58682118571018
+"334";"BE";2007;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,03174519610424
+"335";"BG";2007;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad, Pazardzhik, Ruse, Pleven";8,68935643564356
+"336";"CZ";2007;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,44038294168842
+"337";"DE";2007;"Hamburg, München, Kreisfreie Stadt";1,02735075429746
+"338";"DK";2007;"?stjylland, Sydjylland";1,2626458482158
+"339";"EE";2007;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"340";"EL";2007;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,07547589067477
+"341";"ES";2007;"Barcelona, Valencia / Val?ncia";1,7813457291444
+"342";"FI";2007;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Pohjanmaa";6,41898188093184
+"343";"FR";2007;"Hauts-de-Seine, Nord (FR)";1,78930615582292
+"344";"HR";2007;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,45170454545455
+"345";"HU";2007;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Hajdú-Bihar, Bács-Kiskun, Komárom-Esztergom, Szabolcs-Szatmár-Bereg";7,46196002578981
+"346";"IE";2007;"South-West (IE), Mid-East, South-East (IE), Border";3,647634258335
+"347";"IT";2007;"Milano, Torino";1,19246347990115
+"348";"LT";2007;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis, Panevezio apskritis";3,2156633547633
+"349";"LV";2007;"Pieriga, Kurzeme, Latgale, Zemgale, Vidzeme";5
+"350";"MK";2007;"Pelagoniski, Jugoistocen, Vardarski, Poloski, Jugozapaden, Istocen, Severoistocen";6,04511278195489
+"351";"MT";2007;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"352";"NL";2007;"Groot-Rijnmond, Utrecht";1,34442664656553
+"353";"PL";2007;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Wroclaw";4,4647961884595
+"354";"PT";2007;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Oeste, Cávado, Regi?o de Leiria";7,52982311805841
+"355";"RO";2007;"Timis, Cluj, Constanta, Prahova, Arges, Brasov";5,65247018739353
+"356";"SE";2007;"Västra Götalands län, Sk?ne län, Östergötlands län";2,12111235640235
+"357";"SI";2007;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,47207055858883
+"358";"SK";2007;"Trnavský kraj, Kosický kraj, Nitriansky kraj";2,23962079110821
+"359";"UK";2007;"Westminster, Berkshire";1,48679597552121
+"360";"AT";2005;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,7168776371308
+"361";"BE";2005;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,17331134797715
+"362";"BG";2005;"Plovdiv, Varna, Burgas, Stara Zagora, Sofia, Blagoevgrad";5,88804071246819
+"363";"CZ";2005;"Stredoceský kraj, Moravskoslezský kraj, Jihomoravský kraj";2,39683421271869
+"364";"DE";2005;"Berlin, München, Kreisfreie Stadt";1,009115890715
+"365";"DK";2005;"K?benhavns omegn, ?stjylland";1,30585651537335
+"366";"EE";2005;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"367";"EL";2005;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,18530956686472
+"368";"ES";2005;"Barcelona, Valencia / Val?ncia";1,74999472963002
+"369";"FI";2005;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo, Kymenlaakso";6,12004928709734
+"370";"FR";2005;"Hauts-de-Seine, Nord (FR)";1,82926594618863
+"371";"HR";2005;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Zagrebacka zupanija, Osjecko-baranjska zupanija";4,56301303718011
+"372";"HU";2005;"Pest, Borsod-Abaúj-Zemplén, Gyor-Moson-Sopron, Hajdú-Bihar, Fejér, Bács-Kiskun, Komárom-Esztergom, Csongrád";7,16762419736397
+"373";"IE";2005;"South-West (IE), Mid-East, South-East (IE), Border";3,96628537025888
+"374";"IT";2005;"Milano, Torino";1,13955669490731
+"375";"LT";2005;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis";2,76017262638718
+"376";"LV";2005;"Kurzeme, Pieriga, Latgale, Zemgale, Vidzeme";5
+"377";"MK";2005;"Pelagoniski, Jugoistocen, Jugozapaden, Poloski, Vardarski, Istocen";5,80185758513932
+"378";"MT";2005;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"379";"NL";2005;"Groot-Rijnmond, Utrecht";1,36850924826065
+"380";"PL";2005;"Miasto Kraków, Miasto Poznan, Region Katowicki, Region Trojmiejski, Miasto Lódz";4,29013203613621
+"381";"PT";2005;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Oeste, Cávado, Regi?o de Leiria";7,59440721053848
+"382";"RO";2005;"Constanta, Timis, Cluj, Prahova, Arges, Brasov";5,48588007736944
+"383";"SE";2005;"Västra Götalands län, Sk?ne län, Östergötlands län";2,25658740359897
+"384";"SI";2005;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,3710174717369
+"385";"SK";2005;"Kosický kraj, Nitriansky kraj, Trnavský kraj";2,31532980923926
+"386";"UK";2005;"Westminster, Berkshire";1,37082647934913
+"387";"AT";2003;"Linz-Wels, Graz, Salzburg und Umgebung, Wiener Umland/Südteil, Innsbruck";4,90283919013265
+"388";"BE";2003;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,26964061155603
+"389";"BG";2003;"Plovdiv, Varna, Stara Zagora, Burgas, Blagoevgrad, Sofia";5,6830985915493
+"390";"CZ";2003;"Stredoceský kraj, Jihomoravský kraj, Moravskoslezský kraj";2,34904412648792
+"391";"DE";2003;"Hamburg, München, Kreisfreie Stadt";1,01707941929974
+"392";"DK";2003;"?stjylland, K?benhavns omegn";1,25487476544016
+"393";"EE";2003;"L?una-Eesti, Lääne-Eesti, Kirde-Eesti, Kesk-Eesti";4
+"394";"EL";2003;"Thessaloniki, Voreios Tomeas Athinon, Peiraias, Nisoi";2,13804681504221
+"395";"ES";2003;"Barcelona, Valencia / Val?ncia";1,73003465997371
+"396";"FI";2003;"Pirkanmaa, Varsinais-Suomi, Pohjois-Pohjanmaa, Keski-Suomi, Satakunta, Pohjois-Savo";5,96824264049955
+"397";"FR";2003;"Hauts-de-Seine, Nord (FR)";1,93009248931826
+"398";"HR";2003;"Splitsko-dalmatinska zupanija, Primorsko-goranska zupanija, Istarska zupanija, Osjecko-baranjska zupanija, Zagrebacka zupanija";4,39665471923536
+"399";"HU";2003;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Fejér, Bács-Kiskun, Szabolcs-Szatmár-Bereg, Csongrád";7,06168300653595
+"400";"IE";2003;"South-West (IE), South-East (IE), Mid-East, Border";3,25668945724656
+"401";"IT";2003;"Milano, Torino";1,09537813721886
+"402";"LT";2003;"Kauno apskritis, Klaipedos apskritis, Siauliu apskritis, Panevezio apskritis";3,01649305555556
+"403";"LV";2003;"Kurzeme, Pieriga, Zemgale, Latgale, Vidzeme";5
+"404";"MK";2003;"Pelagoniski, Poloski, Jugozapaden, Jugoistocen, Vardarski";4,22455089820359
+"405";"MT";2003;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"406";"NL";2003;"Groot-Rijnmond, Utrecht";1,40387009166007
+"407";"PL";2003;"Region Katowicki, Miasto Kraków, Miasto Poznan, Region Trojmiejski, Miasto Lódz";4,28131634819533
+"408";"PT";2003;"Área Metropolitana do Porto, Algarve, Regi?o de Coimbra, Regi?o de Aveiro, Ave, Oeste, Cávado, Regi?o de Leiria";7,36535162950257
+"409";"RO";2003;"Constanta, Timis, Cluj, Prahova, Brasov, Arges";5,01583434835566
+"410";"SE";2003;"Västra Götalands län, Sk?ne län";1,97858118947181
+"411";"SI";2003;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,31548974943052
+"412";"SK";2003;"Kosický kraj, Nitriansky kraj, Trnavský kraj";2,08827199001871
+"413";"UK";2003;"Westminster, Berkshire";1,23402589139319
+"414";"BE";2015;"Arr. Antwerpen, Arr. Halle-Vilvoorde, Arr. Gent";2,02608805242816
+"415";"BG";2015;"Plovdiv, Varna, Stara Zagora, Burgas, Sofia, Blagoevgrad, Ruse, Pazardzhik, Veliko Tarnovo, Pleven";9,97155361050328
+"416";"DK";2015;"K?benhavns omegn, ?stjylland";1,28680430879713
+"417";"EE";2015;"L?una-Eesti, Kirde-Eesti, Lääne-Eesti, Kesk-Eesti";4
+"418";"HU";2015;"Pest, Gyor-Moson-Sopron, Borsod-Abaúj-Zemplén, Fejér, Bács-Kiskun, Hajdú-Bihar, Szabolcs-Szatmár-Bereg, Komárom-Esztergom";7,02947305745758
+"419";"MT";2015;"Gozo and Comino / Ghawdex u Kemmuna, Extra-Regio NUTS 3";2
+"420";"SI";2015;"Podravska, Savinjska, Gorenjska, Jugovzhodna Slovenija";3,55873140172279
+"421";"SK";2015;"Kosický kraj, Trnavský kraj, Zilinský kraj";2,49251152073733
+"422";"UK";2015;"Westminster, Berkshire";1,54647369464521
